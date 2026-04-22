@@ -11,13 +11,20 @@
 .kepfelirat
 {
 	text-align: center;
+	font-weight: bold;
 }
 
 .galeriakep
 {
 	margin: auto;
 	display: block;
+	height: 300px;
 }
-body{
+body {
 	background-color: #f7eddc;
 }
+#tortenet {
+	font-weight: bold;
+}
+
+
